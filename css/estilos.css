@@ -3,4 +3,37 @@ body
     color: blue;
     text-align: center;
     font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#cabecera
+{
+    background: #3333aa;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #dddddd;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px
 }
